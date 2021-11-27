@@ -19,6 +19,7 @@ There are different types of smart bus systems that have no flexibility over cho
 The safety belt device having an LED lighting fuction according to the present invention is configured such that an LED installed in the safety belt can be controlled to be turned off according to the fastened or unfastened state of the safety belt so as to effectively encourage a driver or a passenger neglecting to fasten his/her safety belt, despite legal regulations on fastening safety belts, to fasten the safety belt. Also, according to the present invention, light from the LED facilitates the positoning of the safety belt at night when the driver or passenger is trying to fasten the safety belt, the light from the LED can be used for illumination inside the vehicle, and the driver and the passenger can be safely protected against a sudden stop or an accident which could occur during the high speed driving of the vehicle by encouraging the driver and the passenger to properly fasten their safety belts.
 
 Sleep Detection
+
 Driver fatigue resulting from sleep deprivation or sleep disorders is an important factor in the increasing number of accidents on today's roads. Most of the accidents occur due to drowsiness. This drowsiness level is detected by use of an eye blink sensor. IR sensor is used to detect the blink of an eye. In this IR transmitter is used to transmit the infrared rays in eye. The IR receiver is used to receive the reflected infrared rays of the eye. If the eye is closed it means the output of IR receiver is high otherwise the IR receiver output is low. This is to know whether the eye is in closing or opening position. The signal is given to the IR transmitter. Whenever the signal is high, the IR transmitter LED conducts it and passes the IR rays to the receiver. Eye blink detection sensor identify the blink of person while driving and their range is compared .The compared output is given to the PIC controller and if the value is greater than the threshold value, then an alarm sound is produced. Here the counting of man eye blink is done. For every 20sec, eye blink is counted and if the count of eye blink is less than the threshold value then alarm sound is produced and immediately intimation is send to owner of the vehicle.
 
 ## SWOT ANALYSIS
@@ -48,7 +49,10 @@ In the low level requirement, we must have the knowledge of diffent colour LED a
 ## HIGH LEWEL REQUIREMENTS
 In the high level requirement, we must have the knowledge of Microcontroller ATmega328
 
-![image](https://user-images.githubusercontent.com/94290462/143679162-1f417f2e-d1a8-4c87-860d-e7bb4ba95233.png)
+![image](https://user-images.githubusercontent.com/94290462/143679246-de191e04-c0d8-4432-ad32-24d91fa94f83.png)
+
+
+
 
 
 
