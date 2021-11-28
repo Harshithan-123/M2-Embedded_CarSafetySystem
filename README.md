@@ -12,7 +12,6 @@ In today’s the various kinds of vehicles have been introduced to provide conve
 According to the data on Yangon-Mandalay highway, there were 259 car accidents, leaving 113 dead and 625 others injured in 2013. From 1st January to 22ndApril , there were 115 accidents, killing 62 and injuring 286 others in 2014according to Yangon-Mandalay highway.The reason for choosing this research is to prevent the accidents and dangerous 
 conditions. Therefore many measures to enforce the safety driving and the development of models to monitor driver’s behaviours have been proposed and 
 brought in many promising results.
-There are different types of smart bus systems that have no flexibility over choosing the types and number of sensors used. Thesesystems are rebuilt devices with a limited number of sensors, with a limited area of coverage and with a limited capacity to control the electronic devices. Therefore the idea of smart bus system was proposed, to overcome the limitations of the system already available. The user can choose the number of sensors, type of sensors, the area of coverage of the system along with the number and types of electronic devices to be controlled. The cost of the system can be determined by the user as the cost depends on the hardware in the system.
 
 ## EXPLANATION
 
@@ -42,7 +41,7 @@ On September 9, 1966
 Buffalo
 
 ## LOW LEVEL REQUIREMENTS
-In the low level requirement, we must have the knowledge of diffent colour LED and there individual values associated with it.
+In the low level requirement, we must have the knowledge of different colour LED and there individual values associated with it.
 
 ![image](https://user-images.githubusercontent.com/94290462/143678967-130dfd83-b5b8-4219-a00a-489ab9c47025.png)
 
