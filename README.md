@@ -1,4 +1,4 @@
-# M2-Embedded_Car-Safety-System
+# M2-Embedded_CarSafetySystem
 Naming Convention: M2-Embedded_Car Safety System
 
 ## INTRODUCTION
