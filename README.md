@@ -1,5 +1,6 @@
 # M2-Embedded_CarSafetySystem
-Naming Convention: M2-Embedded_Car Safety System
+
+[![CI](https://github.com/Harshithan-123/M2-Embedded_CarSafetySystem/actions/workflows/main.yml/badge.svg)](https://github.com/Harshithan-123/M2-Embedded_CarSafetySystem/actions/workflows/main.yml)
 
 ## INTRODUCTION
 
