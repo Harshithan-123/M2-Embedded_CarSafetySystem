@@ -1,5 +1,6 @@
 # M2-Embedded_CarSafetySystem
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3f0168b40fa41c7b54d3e98cf2f1429)](https://app.codacy.com/gh/Harshithan-123/M2-Embedded_CarSafetySystem?utm_source=github.com&utm_medium=referral&utm_content=Harshithan-123/M2-Embedded_CarSafetySystem&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/Harshithan-123/M2-Embedded_CarSafetySystem/actions/workflows/main.yml/badge.svg)](https://github.com/Harshithan-123/M2-Embedded_CarSafetySystem/actions/workflows/main.yml)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e7223fac78c841738d87897d8377e37f)](https://www.codacy.com/gh/Harshithan-123/M2-Embedded_CarSafetySystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Harshithan-123/M2-Embedded_CarSafetySystem&amp;utm_campaign=Badge_Grade)
