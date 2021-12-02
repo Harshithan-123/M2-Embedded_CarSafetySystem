@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/Harshithan-123/M2-Embedded_CarSafetySystem/actions/workflows/main.yml/badge.svg)](https://github.com/Harshithan-123/M2-Embedded_CarSafetySystem/actions/workflows/main.yml)
 
+![image](https://user-images.githubusercontent.com/94290462/143679246-de191e04-c0d8-4432-ad32-24d91fa94f83.png)
+
 ## INTRODUCTION
 
 Nowadays people are driving very fast; accidents are occurring frequently, we lost our valuable life by making small mistake while driving the highway department.Road facilities are a major concern in the developed world. Recent studies show that one third of the number of fatal or serious accidents are associated with excessive or inappropriate speed, as well as changes in the roadway (like the presence of road-work or unexpected obstacles). Reduction of the number of accidents and mitigation of their consequences are a big concern for traffic authorities, the automotive industry and transport research groups. For vehicle safety and safety for passengers in vehicle is an important parameter. Most of the vehicles get accident because no proper safety measures are taken especially at curves and hair pin bends humps and any obstacles in front of the vehicle.
